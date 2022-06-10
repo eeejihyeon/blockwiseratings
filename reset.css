@@ -1,0 +1,40 @@
+:root {
+  --black-color: #121212;
+  --gray-color: #f0f0f0;
+  --point-color: #292a4b;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+span,
+div,
+ul,
+li,
+table,
+thead,
+tbody,
+tr,
+th,
+td,
+form,
+input,
+button,
+a,
+img {
+  padding: 0;
+  margin: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+a {
+  color: var(--black-color);
+  text-decoration: none;
+}
