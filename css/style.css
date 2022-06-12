@@ -31,6 +31,10 @@ nav ul li ~ li {
   margin-left: 2.6042vw;
 }
 
+main {
+  overflow: hidden;
+}
+
 #intro {
   background: url(../images/intro_bg.png) no-repeat;
   background-position: center;
